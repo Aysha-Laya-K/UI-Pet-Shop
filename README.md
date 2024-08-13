@@ -1,7 +1,9 @@
-# petkart
+![UI- Pet Shop Mobile App](https://github.com/user-attachments/assets/6d0987d1-8aac-4087-88e9-6eea5f4e5f25)# petkart
 
 A new Flutter project.
 
+## About
+![UI- Pet Shop Mobile App](https://github.com/user-attachments/assets/3c9064f7-afc0-4b53-9325-508418191eca)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
