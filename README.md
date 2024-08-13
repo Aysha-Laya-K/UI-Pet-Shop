@@ -1,4 +1,3 @@
-![UI- Pet Shop Mobile App](https://github.com/user-attachments/assets/6d0987d1-8aac-4087-88e9-6eea5f4e5f25)# petkart
 
 A new Flutter project.
 
